@@ -1,0 +1,8 @@
+{
+  "actorSpecification": 1,
+  "name": "ironcore-gym",
+  "version": "1.0",
+  "title": "IronCore Gym",
+  "description": "Full-stack gym website with class scheduling, booking requests, and an owner/trainer admin dashboard.",
+  "usesStandbyMode": true
+}
